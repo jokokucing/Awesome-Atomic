@@ -47,7 +47,7 @@ The Future is Now™, try one of these today!
 		- [Fedora CoreOS](https://fedoraproject.org/coreos/) - An atomic-based Fedora focused on servers
 	- Related Projects
 		- [Universal Blue](https://universal-blue.org/) - An organization dedicated to build and distribute cloud-native OSTree OCI images originally based on Fedora Atomic. [list of source images](https://github.com/orgs/ublue-os/packages), [list of end-user images](https://universal-blue.org/#images)
-			- [Bazzite](https://github.com/ublue-os/bazzite/) - An Universal Blue OCI image focused on Desktop Gaming, based on [Fedora Kinoite](https://fedoraproject.org/atomic-desktops/kinoite/); the gold standard of atomic desktop linux gaming
+			- [Bazzite](https://github.com/ublue-os/bazzite/) - A Universal Blue (Fedora Atomic -based) OCI image focused on Gaming (desktop and handheld); the gold standard for Linux Gaming
 			- [Aurora](https://getaurora.dev/) - An Universal Blue OCI image focused on general and development use, based on [Fedora Kinoite](https://fedoraproject.org/atomic-desktops/kinoite/)
 			- [Bluefin](https://projectbluefin.io/) - An Universal Blue OCI image focused on general and development use, based on [Fedora Silverblue](https://fedoraproject.org/atomic-desktops/silverblue)
 			- [uCore](https://projectucore.io/) - An Universal Blue OCI image focused on server use, based on [Fedora CoreOS](https://fedoraproject.org/coreos/)
