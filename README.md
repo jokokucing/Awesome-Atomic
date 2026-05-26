@@ -74,6 +74,7 @@ The Future is Now™, try one of these today!
 - [ChromiumOS](https://www.chromium.org/chromium-os/chromiumos-design-docs/filesystem-autoupdate/) - Good design document on how Chromium implements its autoupdate mechanism
 	- [ChromeOS (Flex)](https://chromeenterprise.google/os/chromeosflex/) - the cloud-first, fast, easy-to-manage, and secure operating system by Google. _flex is the non-chromebook version_
 - [VanillaOS](https://vanillaos.org/) - Vanilla OS is a Debian Sid Linux-based Point Release distribution that receives updates at the right time without sacrificing security and functionality.
+- [KDE Linux](https://linux.kde.org/) - The official arch-based image-based atomic distribution of the KDE project, only shipping KDE Plasma and flatpaks without any other package manager; Currently in Alpha
 - [GNOME OS](https://os.gnome.org/) - The official bleeding-edge development and testing distribution (not recommended for daily usage) of the GNOME project, only shipping GNOME and flatpaks without any other package manager
 - [Nitrux](https://nxos.org/) - A Debian-based Linux distribution that features [NX Desktop](https://nxos.org/english/nxd/) and the [MauiKit Applications](https://mauikit.org/) suite.
 - [blendOS](https://blendos.co/) - blendOS is an operating system that seamlessly blends all your Linux distributions into one.
